@@ -1,0 +1,3 @@
+C:/Flatlandia/Map/cmake-build-debug/CMakeFiles/Map.dir
+C:/Flatlandia/Map/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Flatlandia/Map/cmake-build-debug/CMakeFiles/rebuild_cache.dir

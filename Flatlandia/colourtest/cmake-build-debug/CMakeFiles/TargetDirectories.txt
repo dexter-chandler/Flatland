@@ -1,0 +1,3 @@
+C:/Flatlandia/colourtest/cmake-build-debug/CMakeFiles/colourtest.dir
+C:/Flatlandia/colourtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Flatlandia/colourtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
